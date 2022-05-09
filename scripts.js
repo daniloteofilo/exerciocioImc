@@ -1,6 +1,6 @@
 let nome = "Naiani";
 
-let peso = 40;
+let peso = 57;
 
 let altura = 1.59;
 
